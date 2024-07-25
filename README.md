@@ -15,6 +15,9 @@ The ToDo app is a Swift-based application designed to help users manage their ta
 - **MVVM Architecture**: Ensures separation of concerns and promotes a maintainable code structure.
 - **Combine Framework**: Implements reactive programming to handle asynchronous events and data updates.
 
+![Edit Mode](./Edit_mode.png)
+![Items List](./items_list.png)
+
 ## Getting Started:
 
 ### Clone the Repository:
@@ -28,6 +31,3 @@ Run the App:
 Select your target device or simulator.
 Click on the Run button or press Command + R.
 
-![SwiftUI](./Edit_mode.png)
-
-![SwiftUI](./items_list.png)
