@@ -27,3 +27,7 @@ Ensure you have the latest version of Xcode installed.
 Run the App:
 Select your target device or simulator.
 Click on the Run button or press Command + R.
+
+![SwiftUI](./Edit _mode.png)
+
+![SwiftUI](./items_list.png)
