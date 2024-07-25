@@ -28,6 +28,6 @@ Run the App:
 Select your target device or simulator.
 Click on the Run button or press Command + R.
 
-![SwiftUI](./Edit _mode.png)
+![SwiftUI](./Edit_mode.png)
 
 ![SwiftUI](./items_list.png)
