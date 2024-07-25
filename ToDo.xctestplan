@@ -1,0 +1,28 @@
+{
+  "configurations" : [
+    {
+      "id" : "77D55C79-487A-4108-B397-8AA6769FD450",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:StateManagement.xcodeproj",
+      "identifier" : "7D9389182BA03A6F00E654CB",
+      "name" : "StateManagement"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:ToDo.xcodeproj",
+        "identifier" : "7D812B3B2BB5FB2500D9EC4E",
+        "name" : "ToDoTests"
+      }
+    }
+  ],
+  "version" : 1
+}
